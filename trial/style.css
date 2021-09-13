@@ -1,4 +1,10 @@
-body{
-    color:aqua;
-    background-image: linear-gradient(azure,cadetblue);
-}
+html {
+    box-sizing: border-box;
+  }
+  
+  body {
+      margin:0;
+      font-size: large;
+      font-family: Arial, Helvetica, sans-serif;
+      color: rgb(32, 4, 0); 
+     }
