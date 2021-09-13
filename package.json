@@ -1,0 +1,16 @@
+{
+  "name": "dummy2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d trial"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://DragoRab.github.io/dummy2",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
