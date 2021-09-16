@@ -1,0 +1,41 @@
+html {
+    box-sizing: border-box;
+  }
+  
+body {
+    background-image: linear-gradient( azure, beige , burlywood );
+    color: rgba(0, 0, 0, 0.596);
+    margin-top: 2%;
+}
+
+.p1{
+    margin-left: 4% ;
+}
+
+.p2{
+    margin-left: 20px ;
+    margin-right: 15px ;
+}
+
+em{
+    float: right;
+}
+
+footer{
+    font-size: 10px; 
+    color:rgb(112, 4, 0);
+    background-color: black;
+    padding: 10px;
+}
+a:link, a:visited {
+    color:dimgray ;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+a:hover, a:active {
+    border-bottom: 1px solid navy;
+    color: navy;
+  }
