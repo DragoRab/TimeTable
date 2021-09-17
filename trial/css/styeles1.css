@@ -20,9 +20,12 @@ body {
 em{
     float: right;
 }
+h1{
+  margin-left: 4% ;
+}
 
 footer{
-    font-size: 10px; 
+    font-size: 20px; 
     color:rgb(112, 4, 0);
     background-color: black;
     padding: 10px;
@@ -36,6 +39,16 @@ a:link, a:visited {
   }
 
 a:hover, a:active {
-    border-bottom: 1px solid navy;
-    color: navy;
+    color: rgb(112, 4, 0);
   }
+
+table, th, td {
+    border: none ;
+    margin-left: 4% ;
+    text-align: left;
+    border: 1.5px solid orange;
+      background-color: rgba(255, 228, 196, 0.596);
+      color: brown;
+      padding: 15px;
+      border-collapse: collapse;
+}
