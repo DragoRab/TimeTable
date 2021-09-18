@@ -23,7 +23,9 @@ em{
 h1{
   margin-left: 4% ;
 }
-
+img{
+  margin-left: 12%;
+}
 footer{
     font-size: 20px; 
     color:rgb(112, 4, 0);
