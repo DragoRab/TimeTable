@@ -22,13 +22,17 @@ b{
     margin-left: 4%;
 }
 
+em{
+  color: orangered;
+  
+}
 
 table, td {
   margin-left: 4% ;
   text-align: center;
     border: 1.5px solid orange;
-    background-color: rgba(255, 228, 196, 0.596);
-    color: brown;
+    background-color: rgba(255, 228, 196, 0.74);
+    color: darkred;
     padding: 15px;
     border-collapse: collapse;
   }
