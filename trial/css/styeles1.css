@@ -41,7 +41,7 @@ a:link, a:visited {
   }
 
 a:hover, a:active {
-    color: rgb(112, 4, 0);
+    color: orangered;
   }
 
 table, th, td {
